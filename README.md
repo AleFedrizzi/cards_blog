@@ -1,2 +1,2 @@
-# cards_blog
-estudo html/Css
+# estudo html/Css
+https://alefedrizzi.github.io/cards_blog/
